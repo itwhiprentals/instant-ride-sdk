@@ -392,3 +392,4 @@ if (typeof module !== 'undefined' && module.exports) {
 if (typeof window !== 'undefined') {
   window.ItWhipSDK = InstantRideSDK;
 }// Version update: 1
+// Version update: 2
