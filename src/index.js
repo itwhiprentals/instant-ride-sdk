@@ -397,3 +397,4 @@ if (typeof window !== 'undefined') {
 // Version update: 4
 // Version update: 5
 // Version update: 6
+// Version update: 7
