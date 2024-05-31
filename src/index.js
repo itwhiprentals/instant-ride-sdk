@@ -486,3 +486,4 @@ if (typeof window !== 'undefined') {
 // Version update: 93
 // Version update: 94
 // Version update: 95
+// Version update: 96
