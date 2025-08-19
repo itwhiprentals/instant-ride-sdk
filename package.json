@@ -1,0 +1,39 @@
+{
+  "name": "@itwhip/instant-ride-sdk",
+  "version": "3.3.2",
+  "description": "Official ItWhip Instant Ride SDK for hotel property integration with GDS systems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "itwhip",
+    "hotel",
+    "transportation",
+    "rides",
+    "sdk",
+    "amadeus",
+    "gds",
+    "hospitality",
+    "api",
+    "instant-rides",
+    "hotel-technology",
+    "pms-integration"
+  ],
+  "author": "ItWhip Technologies <sdk@itwhip.com>",
+  "license": "MIT",
+  "homepage": "https://developers.itwhip.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itwhip/instant-ride-sdk"
+  },
+  "bugs": {
+    "url": "https://github.com/itwhip/instant-ride-sdk/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
