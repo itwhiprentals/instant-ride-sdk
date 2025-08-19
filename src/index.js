@@ -591,3 +591,4 @@ if (typeof window !== 'undefined') {
 // Version update: 198
 // Version update: 199
 // Version update: 200
+// Security fix by Michael
